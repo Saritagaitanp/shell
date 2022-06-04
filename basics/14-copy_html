@@ -1,2 +1,2 @@
 #!/bin/bash
-cp [[:upper:]]* html /shell
+cp [[:upper:]]* /tmp/file_0.html
