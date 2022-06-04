@@ -1,2 +1,3 @@
 #!/bin/bash
 cp *.html /tmp/file_0.html
+cp *.html /tmp/file_1.html
