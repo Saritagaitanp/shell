@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo usermod cd <<u>> -l betty
+su betty
