@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R d755  
+chmod 755 -R  
