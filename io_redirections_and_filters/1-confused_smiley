@@ -1,2 +1,2 @@
 #!/bin/bash
-head "U+1F615"
+echo "U+1F615"
