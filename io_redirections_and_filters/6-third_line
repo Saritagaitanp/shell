@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ' head -n3 iacta '
+echo | less iacta | head -n3 iacta
