@@ -1,2 +1,2 @@
 #!/bin/bash
-echo head -n3 /etc/iacta
+echo 'head -n3 /h/iacta'
