@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | less /etc/iacta | head /etc/iacta
+echo | less /etc/iacta | head -n3 /etc/iacta
