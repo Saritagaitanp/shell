@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | cp iacta | tail Y -n1 iacta 
+echo | cp Y iacta | tail -n1 iacta 
