@@ -1,2 +1,2 @@
 #!/bin/bash
-echo | cat | rm *.js iacta
+echo | ls -lR | rm *.js 
