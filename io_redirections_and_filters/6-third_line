@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'head -n3 iacta'
+echo 'cat etc/iacta | head 3 | tail -1'
