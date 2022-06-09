@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | sort 12-newest_files | head 12-newest_files
+ls -t | sort | head
