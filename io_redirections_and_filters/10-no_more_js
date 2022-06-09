@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lR | find . -type -iname "*.js" | rm  
+ls -la | find . -type f -name '*.js' -exec rm -f {} \;
