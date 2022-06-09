@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -tl >> 12-newest_files | head
+ls -lth > 12-newest_files | head 12-newest_files
