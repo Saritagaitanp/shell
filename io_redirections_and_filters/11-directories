@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ld | grep -c '^d'
+ls -al | find . -type f -print | wc -l
