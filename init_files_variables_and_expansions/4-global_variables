@@ -1,2 +1,2 @@
 #!/bin/bash
-nv | wc -l
+env
