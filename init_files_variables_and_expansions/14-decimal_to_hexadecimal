@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $[0x10#$DECIMAL]16
+echo $0x[10#$DECIMAL]16
